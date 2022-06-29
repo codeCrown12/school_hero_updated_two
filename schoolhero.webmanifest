@@ -1,0 +1,18 @@
+{
+    "name": "School hero",
+    "origin": "*",
+    "short_name": "school hero",
+    "methods": "GET,HEAD,PUT,PATCH,POST,DELETE",
+    "description": "A web app for finding after school activities",
+    "icons": [
+        {
+            "src": "assets/images/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+
+}
